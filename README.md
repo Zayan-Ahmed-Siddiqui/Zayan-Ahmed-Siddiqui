@@ -99,7 +99,7 @@
 <div align="center">
 
 <a href="https://github.com/Zayan-Ahmed-Siddiqui/">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zayan-ahmed-siddiqui&show_icons=true&locale=en&layout=compact" alt="zayan-ahmed-siddiqui" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zayan-ahmed-siddiqui&show_icons=true&locale=en&layout=compact" alt="zayan-ahmed-siddiqui"/>
   </p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zayan-ahmed-siddiqui&show_icons=true&locale=en" alt="zayan-ahmed-siddiqui" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zayan-ahmed-siddiqui&" alt="zayan-ahmed-siddiqui" /></p>
