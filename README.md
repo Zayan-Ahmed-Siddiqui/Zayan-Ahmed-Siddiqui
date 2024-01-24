@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on **FRONTEND DEVELOPER**
 - 👯 I’m looking to collaborate on **HTML, CSS, JAVASCRIPT**
 - 🌱 I’m currently learning **PHP**
-- 📫 How to reach me [link](Ghazifayaiz123@gmail.com)
+- 📫 How to reach me **(ZAYANAHMEDSIDDIQUI21@gmail.com)**
 - 🏦 I’m currently open for an Intern or a new job opportunity, this is [my resume]
 
 <br><br>
